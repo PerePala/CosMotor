@@ -24,9 +24,9 @@ This table produces a piecewise-linear approximation to the sinusoindal movement
 
 ## How to use this?
 
-1 .Instantiate a *CosMotor* element 
+1. Instantiate a *CosMotor* element 
 
-2. Schedule it 
+1. Schedule it 
 
   * At some time
   * In the desired direction
